@@ -3,10 +3,7 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags:
-  - Water
-  - Coin
-  - Fall
+  tags: []
   layers:
   - Default
   - TransparentFX
@@ -16,8 +13,8 @@ TagManager:
   - UI
   - 
   - 
-  - Ground
-  - Player
+  - Car
+  - CarWheels
   - 
   - 
   - 
@@ -41,18 +38,12 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: Bg
+    uniqueID: 1189730249
+    locked: 0
   - name: Default
     uniqueID: 0
     locked: 0
-  - name: Background
-    uniqueID: 302586013
-    locked: 0
-  - name: MidGround
-    uniqueID: 3932931695
-    locked: 0
-  - name: Character
-    uniqueID: 1584567711
-    locked: 0
-  - name: Foreground
-    uniqueID: 1486142573
+  - name: Fg
+    uniqueID: 2442716741
     locked: 0
