@@ -3,7 +3,10 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Fuel
+  - Coin
+  - Ground
   layers:
   - Default
   - TransparentFX
@@ -13,8 +16,8 @@ TagManager:
   - UI
   - 
   - 
-  - Car
-  - CarWheels
+  - 
+  - 
   - 
   - 
   - 
@@ -39,11 +42,17 @@ TagManager:
   - 
   m_SortingLayers:
   - name: Bg
-    uniqueID: 1189730249
+    uniqueID: 4222888509
+    locked: 0
+  - name: JustBehind
+    uniqueID: 4246976791
     locked: 0
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: JustAhead
+    uniqueID: 1060164477
+    locked: 0
   - name: Fg
-    uniqueID: 2442716741
+    uniqueID: 3477274197
     locked: 0
