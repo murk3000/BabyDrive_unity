@@ -4,10 +4,9 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - Saw
-  - Death
-  - Floor
+  - Water
   - Coin
+  - Fall
   layers:
   - Default
   - TransparentFX
@@ -17,8 +16,8 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
+  - Ground
+  - Player
   - 
   - 
   - 
@@ -42,12 +41,18 @@ TagManager:
   - 
   - 
   m_SortingLayers:
-  - name: Background
-    uniqueID: 3583003031
-    locked: 0
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Background
+    uniqueID: 302586013
+    locked: 0
+  - name: MidGround
+    uniqueID: 3932931695
+    locked: 0
+  - name: Character
+    uniqueID: 1584567711
+    locked: 0
   - name: Foreground
-    uniqueID: 4079300731
+    uniqueID: 1486142573
     locked: 0
