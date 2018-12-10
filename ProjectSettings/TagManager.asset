@@ -3,11 +3,7 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags:
-  - Saw
-  - Death
-  - Floor
-  - Coin
+  tags: []
   layers:
   - Default
   - TransparentFX
@@ -17,8 +13,8 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
+  - Car
+  - CarWheels
   - 
   - 
   - 
@@ -42,12 +38,12 @@ TagManager:
   - 
   - 
   m_SortingLayers:
-  - name: Background
-    uniqueID: 3583003031
+  - name: Bg
+    uniqueID: 1189730249
     locked: 0
   - name: Default
     uniqueID: 0
     locked: 0
-  - name: Foreground
-    uniqueID: 4079300731
+  - name: Fg
+    uniqueID: 2442716741
     locked: 0
